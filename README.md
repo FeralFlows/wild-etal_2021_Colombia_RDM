@@ -3,6 +3,7 @@ Discovering Robust Deep Decarbonization Pathways for Colombia
 
 ## Contents
 - [Abstract](#abstract)
+- [RDM Computational Infrustructure](#robust-decision-making-computational-infrustructure)
 - [Code Reference](#code-reference)
 - [Journal Reference](#journal-reference)
 - [Data Reference](#data-reference)
@@ -12,6 +13,18 @@ Discovering Robust Deep Decarbonization Pathways for Colombia
 
 ## Abstract
 
+
+[Back to Contents](#contents)
+
+<br />
+
+## Robust Decision Making Computational Infrustructure
+
+<a name="figure1"></a>
+
+<p align="center"> <img src="Figures/RDM Infrastructure v2.png", width = '700'></p>
+
+**Figure 1.** Robust Decision Making (RDM) computational infrustructure.
 
 [Back to Contents](#contents)
 
@@ -66,6 +79,7 @@ Human, I.M. (2020). My dataset name [Data set]. DataHub. https://doi.org/some-do
 [Back to Contents](#contents)
 
 <br />
+
 
 ## Reproduce My Experiement
 
