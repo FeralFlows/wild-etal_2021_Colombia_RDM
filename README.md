@@ -6,6 +6,7 @@ Discovering Robust Deep Decarbonization Pathways for Colombia
 - [RDM Computational Infrustructure](#robust-decision-making-computational-infrustructure)
 - [Code Reference](#code-reference)
 - [Journal Reference](#journal-reference)
+- [Contributing Models](#contributing-models)
 - [Data Reference](#data-reference)
 - [Reproduce My Experiement](#reproduce-my-experiement)
 
@@ -52,10 +53,29 @@ Journal reference will be updated after acceptance.
 
 <br />
 
+## Contributing Models
+
+<a name="table1"></a>
+**Table 1:** Model repository and DOI links.
+
+| Model | Version | Repository Link/DOI |
+|-------|---------|---------------------|
+| GCAM-LAC | v5.3 | <DOI>|
+
+[Back to Contents](#contents)
+
+<br />
+
 ## Data reference
 
 ### Input Data
-Need to fill in.
+
+<a name="table2"></a>
+**Table 2:** Input data for each model and DOI links.
+
+| Input Data Category | Model | DOI | Description |
+|---|---|---|---|
+| Climate Impacts | GCAM-LAC v5.3 | <http://doi.org/10.5281/zenodo.4708046> | [XML files] Climate impacts on ag, hydro, and runoff. |
 
 
 ### Output Data
@@ -71,14 +91,7 @@ Human, I.M. (2020). My dataset name [Data set]. DataHub. https://doi.org/some-do
 
 <br />
 
-## Contributing Models
-| Model | Version | Repository Link/DOI |
-|-------|---------|---------------------|
-| GCAM | v5.3 LAC | <DOI>|
 
-[Back to Contents](#contents)
-
-<br />
 
 
 ## Reproduce My Experiement
