@@ -75,7 +75,7 @@ Journal reference will be updated after acceptance.
 
 | Input Data Category | Model | DOI | Description |
 |---|---|---|---|
-| Climate Impacts | GCAM-LAC v5.3 | <http://doi.org/10.5281/zenodo.4708046> | [XML files] Climate impacts on ag, hydro, and runoff. |
+| Climate Impacts | GCAM-LAC v5.3 | <http://doi.org/10.5281/zenodo.4725925> | [XML files] Climate impacts on ag, hydro, and runoff. |
 
 
 ### Output Data
